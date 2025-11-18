@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Dashboard-Using-Power-BI
+# E-Commerce Sales Analysis Using Excel and Power BI
 
 • Created interactive dashboard to track and analyze online sales data.
 
